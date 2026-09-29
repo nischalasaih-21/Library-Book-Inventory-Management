@@ -1,0 +1,20 @@
+{
+    "101": {
+        "book_id": "101",
+        "title": "Python Basics",
+        "author": "John Smith",
+        "issued": false
+    },
+    "102": {
+        "book_id": "102",
+        "title": "Machine Learning",
+        "author": "Tom Brown",
+        "issued": true
+    },
+    "2026": {
+        "book_id": "2026",
+        "title": "THE YEAR",
+        "author": "NISCHALA",
+        "issued": false
+    }
+}
